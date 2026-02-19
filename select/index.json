@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "泣けど喚けど朝がきて（feat. 重音テト）",
+  "base_artist": "12uck",
+  "createdAt": "2026-02-19T00:44:48.752029Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "泣けど喚けど朝がきて",
+      "artist": "12uck, 重音テト",
+      "has_synced": false,
+      "path": "select/pl_01_泣けど喚けど朝がきて_12uck,_重音テト.txt"
+    }
+  ]
+}
